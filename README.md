@@ -3,7 +3,7 @@ This is a simple weather forecast app that uses the Open Weather Data API to get
 
 ## State Management
 - flutter_hook
-- riverpod (for dependency injection)
+- riverpod (dependency injection also)
 
 ## API 
 - Open Weather Data API
