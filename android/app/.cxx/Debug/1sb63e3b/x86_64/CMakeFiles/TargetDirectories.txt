@@ -1,0 +1,2 @@
+/Users/shang/StudioProjects/weather_forcast/android/app/.cxx/Debug/1sb63e3b/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/shang/StudioProjects/weather_forcast/android/app/.cxx/Debug/1sb63e3b/x86_64/CMakeFiles/edit_cache.dir

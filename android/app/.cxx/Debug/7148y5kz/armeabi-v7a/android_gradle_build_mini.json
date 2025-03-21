@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/shang/fvm/versions/stable/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/shang/StudioProjects/weather_forcast/android/app/.cxx/Debug/7148y5kz/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shang/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/shang/StudioProjects/weather_forcast/android/app/.cxx/Debug/7148y5kz/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
