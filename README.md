@@ -1,16 +1,16 @@
-# weather_forcast
+# weather_forecast
+This is a simple weather forecast app that uses the Open Weather Data API to get the weather forecast for a given city.
 
-A new Flutter project.
+## State Management
+- flutter_hook
+- riverpod (for dependency injection)
 
-## Getting Started
+## API 
+- Open Weather Data API
+  - 一般天氣預報-今明 36 小時天氣預報
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Error Handling
+- Network Error
+  - No Internet Connection
+- Location Not Found Error
+  - Location Not Found
